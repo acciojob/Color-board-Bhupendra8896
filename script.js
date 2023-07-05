@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     square.addEventListener("mouseenter", function() {
       this.style.backgroundColor = "coral";
       setTimeout(() => {
-        this.style.backgroundColor = "lightgray";
+        this.style.backgroundColor = "rainbow";
       }, 1000);
     });
   }

@@ -8,7 +8,7 @@
 .square {
   width: 20px;
   height: 20px;
-  background-color: lightgray;
+  background-color: black;
   transition: background-color 1s;
   cursor: pointer;
 }
